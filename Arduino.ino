@@ -1,5 +1,3 @@
-
-
 //Incluir la librería del servomotor
 #include <Servo.h>
 //Definir los pines LDR
